@@ -1,5 +1,5 @@
 # RESTful API
-关于RESTful API，这一片文章就够了：[《Principles of good RESTful API Design》](https://codeplanet.io/principles-good-restful-api-design/)，以下内容只是简单提炼，想深入学习的请读[《REST in Practice》](https://pan.baidu.com/s/1kVIge9L)，
+关于RESTful API，这一片文章就够了：[《Principles of good RESTful API Design》](https://codeplanet.io/principles-good-restful-api-design/)，以下内容只是简单提炼，想深入学习的请阅读[《REST in Practice》](https://pan.baidu.com/s/1kVIge9L)，
 ## 动词
 * GET (SELECT) - 从服务器检索特定资源，或资源列表。
 * POST (CREATE) - 在服务器上创建一个新的资源。
