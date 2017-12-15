@@ -31,12 +31,12 @@
 ## 例子
 |Verb|URI|Use|
 |----|---|---|
-|POST|/project|新建项目|
-|GET|/project/{id}|查询一个项目|
-|GET|/project|查询所有项目|
-|DELETE|/project/{id}|删除一个项目|
-|PUT|/project/{id}|更新一个项目|
-|GET|/project/{id}/code|查询某个项目下的所有代码|
+|POST|/projects|新建项目|
+|GET|/projects/{id}|查询一个项目|
+|GET|/projects|查询所有项目|
+|DELETE|/projects/{id}|删除一个项目|
+|PUT|/projects/{id}|更新一个项目|
+|GET|/projects/{id}/codes|查询某个项目下的所有代码|
 
 ## 基本原则
 * 网址中不能有动词，只能有名词
